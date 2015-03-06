@@ -181,7 +181,7 @@
     var basicBot = {
         version: "2.2.1",
         status: false,
-        name: "BasicBot",
+        name: "basicBot",
         loggedInID: null,
         scriptLink: "https://rawgit.com/chisdeal2013/CodeingFiles/BasticBot/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
@@ -191,7 +191,7 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "TwerkGirlProBot",
+            botName: "basicBot",
             language: "english",
             chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
             startupCap: 1, // 1-200
@@ -228,7 +228,7 @@
             afkRankCheck: "ambassador",
             motdEnabled: false,
             motdInterval: 5,
-            motd: "Welcome %u to My %r Enjoy and advertising Plug DJ Community to Friends Please",
+            motd: "Temporary Message of the Day",
             filterChat: true,
             etaRestriction: false,
             welcome: true,
